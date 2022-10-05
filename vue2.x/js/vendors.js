@@ -77257,7 +77257,7 @@ module.exports = {
         var Promise = promiseForIE || win().Promise
         var _this = this;
         if (!theme_COLOR_config) {
-            theme_COLOR_config = win()["tc_cfg_36091719478784046"]
+            theme_COLOR_config = win()["tc_cfg_2913663157378037"]
             var later = retry()
             //重试直到theme_COLOR_config加载
             if (later) return later
