@@ -75820,4 +75820,4 @@ module.exports = exports;
 
 }]);
 //# sourceMappingURL=ant-design-vue.js.map
-(typeof window=='undefined'?global:window).tc_cfg_8273818466017979={"url":"css/theme-colors-ed44865b.css","colors":["#1890ff","#2f9bff","#46a6ff","#5db1ff","#74bcff","#8cc8ff","#a3d3ff","#badeff","#d1e9ff","#e6f7ff","#bae7ff","#91d5ff","#69c0ff","#40a9ff","#1890ff","#096dd9","#0050b3","#003a8c","#002766","24,144,255"]};
+(typeof window=='undefined'?global:window).tc_cfg_36091719478784046={"url":"css/theme-colors-ed44865b.css","colors":["#1890ff","#2f9bff","#46a6ff","#5db1ff","#74bcff","#8cc8ff","#a3d3ff","#badeff","#d1e9ff","#e6f7ff","#bae7ff","#91d5ff","#69c0ff","#40a9ff","#1890ff","#096dd9","#0050b3","#003a8c","#002766","24,144,255"]};
