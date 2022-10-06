@@ -35037,7 +35037,7 @@ __webpack_require__.r(__webpack_exports__);
         fileList: nextFileList
       });
       // fix ie progress
-      if (!window.File || Object({"NODE_ENV":"development","VUE_APP_ROUTER":"/vue2.x","VUE_APP_BASE_URL":"/vue2.x","VUE_APP_BASE_API":"/api","VUE_APP_PREVIEW":"true","VUE_APP_ANALYZER":"false","BASE_URL":"/vue2.x/"}).TEST_IE) {
+      if (!window.File || Object({"NODE_ENV":"development","VUE_APP_ROUTER":"/frontend/vue2.x","VUE_APP_BASE_URL":"/frontend/vue2.x","VUE_APP_BASE_API":"/api","VUE_APP_PREVIEW":"true","VUE_APP_ANALYZER":"false","BASE_URL":"/frontend/vue2.x/"}).TEST_IE) {
         this.autoUpdateProgress(0, targetItem);
       }
     },
@@ -75820,4 +75820,4 @@ module.exports = exports;
 
 }]);
 //# sourceMappingURL=ant-design-vue.js.map
-(typeof window=='undefined'?global:window).tc_cfg_09536853077527785={"url":"css/theme-colors-ed44865b.css","colors":["#1890ff","#2f9bff","#46a6ff","#5db1ff","#74bcff","#8cc8ff","#a3d3ff","#badeff","#d1e9ff","#e6f7ff","#bae7ff","#91d5ff","#69c0ff","#40a9ff","#1890ff","#096dd9","#0050b3","#003a8c","#002766","24,144,255"]};
+(typeof window=='undefined'?global:window).tc_cfg_8995676435566067={"url":"css/theme-colors-ed44865b.css","colors":["#1890ff","#2f9bff","#46a6ff","#5db1ff","#74bcff","#8cc8ff","#a3d3ff","#badeff","#d1e9ff","#e6f7ff","#bae7ff","#91d5ff","#69c0ff","#40a9ff","#1890ff","#096dd9","#0050b3","#003a8c","#002766","24,144,255"]};

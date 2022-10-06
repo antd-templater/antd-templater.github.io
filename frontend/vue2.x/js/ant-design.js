@@ -298,7 +298,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function log(message) {
-  if (!(process && Object({"NODE_ENV":"development","VUE_APP_ROUTER":"/vue2.x","VUE_APP_BASE_URL":"/vue2.x","VUE_APP_BASE_API":"/api","VUE_APP_PREVIEW":"true","VUE_APP_ANALYZER":"false","BASE_URL":"/vue2.x/"}) && "development" === 'production')) {
+  if (!(process && Object({"NODE_ENV":"development","VUE_APP_ROUTER":"/frontend/vue2.x","VUE_APP_BASE_URL":"/frontend/vue2.x","VUE_APP_BASE_API":"/api","VUE_APP_PREVIEW":"true","VUE_APP_ANALYZER":"false","BASE_URL":"/frontend/vue2.x/"}) && "development" === 'production')) {
     console.error('[@ant-design/icons-vue]: ' + message + '.');
   }
 }
