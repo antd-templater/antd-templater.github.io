@@ -20258,7 +20258,7 @@ var staticRenderFns = [function () {
     }
   }), _c("span", [_vm._v("系统平台")])]), _c("div", {
     staticClass: "description"
-  }, [_c("span", [_vm._v("基于 Ant Disign Vue 框架搭建")])])]);
+  }, [_c("span", [_vm._v("基于 Ant Design Vue 框架搭建")])])]);
 }, function () {
   var _vm = this,
       _c = _vm._self._c;
