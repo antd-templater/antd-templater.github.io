@@ -1,0 +1,31 @@
+{
+  "name": "@antd-templater/antd-templater-io",
+  "author": "lin pengteng <china.linpengteng@gmail.com>",
+  "version": "1.0.0",
+  "scripts": {
+    "dev:vue2.x": "vitepress ./preview/vue2.x",
+    "dev:vue3.x": "vitepress ./preview/vue3.x",
+    "build:vue2.x": "vitepress build ./preview/vue2.x",
+    "build:vue3.x": "vitepress build ./preview/vue3.x",
+    "serve:vue2.x": "vitepress serve ./preview/vue2.x",
+    "serve:vue3.x": "vitepress serve ./preview/vue3.x"
+  },
+  "devDependencies": {
+    "@algolia/client-search": "^4.14.2",
+    "@types/eslint": "^8.4.10",
+    "@types/node": "^18.11.9",
+    "@typescript-eslint/eslint-plugin": "^5.44.0",
+    "@typescript-eslint/parser": "^5.44.0",
+    "@typescript-eslint/typescript-estree": "^5.44.0",
+    "@volar-plugins/prettyhtml": "^1.0.3",
+    "eslint": "^8.28.0",
+    "eslint-plugin-vue": "^9.8.0",
+    "prettier": "^2.8.0",
+    "typescript": "^4.9.3",
+    "vitepress": "1.0.0-alpha.29"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "pnpm": ">=7"
+  }
+}

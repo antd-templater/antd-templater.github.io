@@ -1,0 +1,19 @@
+# ignore default files
+**/dist/*
+*.svg
+*.ico
+*.json
+*.md
+*.log
+*.lock
+
+# ignore eslint files
+.gitignore
+
+# ignore package files
+**/node_modules
+
+# ignore build files
+/frontend
+/document
+
