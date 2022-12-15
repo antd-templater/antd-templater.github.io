@@ -12,17 +12,27 @@
   },
   "devDependencies": {
     "@algolia/client-search": "^4.14.2",
+    "@commitlint/cli": "^17.3.0",
+    "@commitlint/config-conventional": "^17.3.0",
     "@types/eslint": "^8.4.10",
     "@types/node": "^18.11.9",
     "@typescript-eslint/eslint-plugin": "^5.44.0",
     "@typescript-eslint/parser": "^5.44.0",
     "@typescript-eslint/typescript-estree": "^5.44.0",
     "@volar-plugins/prettyhtml": "^1.0.3",
+    "cz-message-helper": "^1.1.1",
     "eslint": "^8.28.0",
     "eslint-plugin-vue": "^9.8.0",
+    "husky": "^8.0.2",
+    "lint-staged": "^13.1.0",
     "prettier": "^2.8.0",
     "typescript": "^4.9.3",
     "vitepress": "1.0.0-alpha.29"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-message-helper"
+    }
   },
   "engines": {
     "node": ">=16.0.0",
