@@ -120,7 +120,7 @@ self.addEventListener('fetch', async function (event) {
 
   const responser = async () => {
     if (!activeClientIds.has(clientId)) {
-      await new Promise((resolve) => setTimeout(resolve, 300))
+      await new Promise((resolve) => setTimeout(resolve, 180))
     }
 
     if (activeClientIds.has(clientId)) {
