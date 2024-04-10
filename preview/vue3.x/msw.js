@@ -123,6 +123,10 @@ self.addEventListener('fetch', async function (event) {
       await new Promise((resolve) => setTimeout(resolve, 180))
     }
 
+    if (!activeClientIds.has(clientId)) {
+      await new Promise((resolve) => setTimeout(resolve, 100))
+    }
+
     if (activeClientIds.has(clientId)) {
       return handleRequest(event, requestId)
     }
