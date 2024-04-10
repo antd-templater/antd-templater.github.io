@@ -14,5 +14,6 @@
 **/node_modules
 
 # ignore build files
-/frontend
-/document
+/resource
+/preview
+/docs
