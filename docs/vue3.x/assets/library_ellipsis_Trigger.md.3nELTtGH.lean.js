@@ -1,0 +1,1 @@
+import{_ as o}from"./chunks/Trigger.md_vue_type_script_setup_true_lang.BML5-6YB.js";import{a as _}from"./chunks/Trigger.md_vue_type_script_setup_true_lang.BML5-6YB.js";import"./chunks/theme.NLBZ-mQl.js";import"./chunks/framework.SQ5DeYzb.js";export{_ as __pageData,o as default};
